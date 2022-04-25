@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb+srv://user:pass@stockanalyzer.vyh9z.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "secret": "pass"
+}
